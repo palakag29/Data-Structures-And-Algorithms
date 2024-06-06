@@ -6,3 +6,8 @@ int increment()
     count = count+1;
     return count;
 }
+
+int add(int a,int b){
+    int sum = a+b;
+    return sum;
+}
